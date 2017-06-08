@@ -22,7 +22,7 @@
 	</head>
 
 	<body>
-	<h1>WELCOME</h1>
+	<h1>HOWDY</h1>
 
 	<?php
 	// don't output Google Analytics on dev sites
