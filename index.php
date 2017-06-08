@@ -23,6 +23,7 @@
 
 	<body>
 	<h1>HOWDY</h1>
+	<script>Nav();</script>
 
 	<?php
 	// don't output Google Analytics on dev sites
@@ -39,5 +40,7 @@
 		</script>
 		<?php
 	}
-	?></body>
+	?>
+
+	</body>
 </html>
