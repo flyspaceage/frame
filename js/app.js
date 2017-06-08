@@ -452,6 +452,7 @@ Class(function StateModel() {
 
     };
 });
+
 Class(function FullBackgroundImage() {
 
     Inherit(this, View);

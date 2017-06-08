@@ -9,7 +9,7 @@
 		<meta charset="UTF-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
 
-		<title>Flip Bits</title>
+		<title>Frame | Atrium</title>
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui" />
@@ -22,8 +22,6 @@
 	</head>
 
 	<body>
-	<h1>HOWDY</h1>
-	<script>Nav();</script>
 
 	<?php
 	// don't output Google Analytics on dev sites
