@@ -21,7 +21,10 @@
 		?>
 	</head>
 
-	<body><?php
+	<body>
+	<h1>WELCOME</h1>
+
+	<?php
 	// don't output Google Analytics on dev sites
 	if (strpos($_SERVER['HTTP_HOST'],'dev') === false && strpos($_SERVER['HTTP_HOST'],'local') === false){
 		?>
