@@ -21,7 +21,9 @@
 		?>
 	</head>
 
-	<body><?php
+	<body>
+
+	<?php
 	// don't output Google Analytics on dev sites
 	if (strpos($_SERVER['HTTP_HOST'],'dev') === false && strpos($_SERVER['HTTP_HOST'],'local') === false){
 		?>
@@ -36,5 +38,7 @@
 		</script>
 		<?php
 	}
-	?></body>
+	?>
+
+	</body>
 </html>
