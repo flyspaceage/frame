@@ -22,6 +22,7 @@
 	</head>
 
 	<body>
+	<p>Content goes here</p>
 
 	<?php
 	// don't output Google Analytics on dev sites
